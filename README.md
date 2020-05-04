@@ -5,6 +5,8 @@
 - 在线播放国家/省/市广播电台
 - 最近收听
 - 搜索节目/专辑/广播（包括热搜词）
+todo:
+设置功能
 
 ## Screenshots
 <a href="screenshots/00.png"><img src="screenshots/00.png" width="30%"/></a> <a href="screenshots/01.jpg"><img src="screenshots/01.jpg" width="30%"/></a> <a href="screenshots/02.jpg"><img src="screenshots/02.jpg" width="30%"/></a>
